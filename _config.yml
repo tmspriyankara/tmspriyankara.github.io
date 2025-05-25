@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     :  "Your Name"
 description              : &description "personal description"
 url                      : https://tmspriyankara.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,7 +23,7 @@ repository               : "tmspriyankara/tmspriyankara.github.io"
 author:
   # Biographic information
   avatar           : "/images/myphoto.jpg"
-  name             :"Your Sidebar Name"
+  name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Lubbock,Texas"
