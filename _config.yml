@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "Home"
 title_separator          : "-"
-name                     :  "Your Name"
+name                     :  &name "Your Name"
 description              : &description "personal description"
 url                      : https://tmspriyankara.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
