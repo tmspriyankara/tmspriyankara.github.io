@@ -23,7 +23,7 @@ repository               : "tmspriyankara/tmspriyankara.github.io"
 author:
   # Biographic information
   avatar           : "/images/myphoto1.jpg"
- # name             : #"Your Sidebar Name"
+ # name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   #bio              : #"Short biography for the left-hand sidebar"
   location         : "Lubbock,Texas"
