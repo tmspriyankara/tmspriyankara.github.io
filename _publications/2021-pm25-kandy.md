@@ -9,6 +9,6 @@ volume: "18"
 number: "18"
 pages: "9617"
 publisher: "MDPI"
-doi: "https://doi.org/10.3390/ijerph18189617"
+url: "https://doi.org/10.3390/ijerph18189617"
 category: manuscripts
 ---
