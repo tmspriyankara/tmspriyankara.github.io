@@ -12,3 +12,5 @@ publisher: "Elsevier"
 doi: ""  # add DOI link here if available
 category: manuscripts
 ---
+
+👉 <a href="https://www.jacionline.org/article/S0091-6749(22)00002-1/fulltext">Click here to read the full article</a>
