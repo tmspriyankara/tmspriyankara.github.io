@@ -11,4 +11,4 @@ pages: "9617"
 publisher: "MDPI"
 category: manuscripts
 ---
-dbcbdhcbhdcb
+👉 <a href="https://doi.org/10.3390/ijerph18189617" target="_blank">Click here to read the full article</a>
