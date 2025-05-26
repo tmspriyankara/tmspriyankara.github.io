@@ -10,3 +10,4 @@ number: "3"
 pages: "27–36"
 category: manuscripts
 ---
+👉 <a href="https://ges.rgo.ru/jour/article/view/2603" target="_blank">Click here to read the full article</a>
