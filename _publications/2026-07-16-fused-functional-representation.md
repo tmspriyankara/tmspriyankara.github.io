@@ -1,5 +1,5 @@
 ---
-title: "Fused: A Functional Representation for Joint Structural and Elemental Analysis of Fourteen Ligand Binding Sites"
+title: "FUSED: A Functional Representation for Joint Structural and Elemental Analysis of Protein Ligand Binding Sites"
 collection: publications
 permalink: /publication/fused-functional-representation
 date: 2026-07-16
