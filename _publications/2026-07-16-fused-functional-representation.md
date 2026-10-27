@@ -4,8 +4,12 @@ collection: publications
 permalink: /publication/fused-functional-representation
 date: 2026-07-16
 authors: "Sajith Priyankara, Leif Ellingson"
-journal: 'bioRxiv — <a href="https://doi.org/10.64898/2026.07.10.737806" target="_blank">View Preprint</a>'
+status: accepted
+venue: 'Journal of Chemical Information and Modeling'
+journal: 'Accepted for publication in Journal of Chemical Information and Modeling — bioRxiv — <a href="https://doi.org/10.64898/2026.07.10.737806" target="_blank">View Preprint</a>'
 category: manuscripts
 ---
-👉 <a href="https://doi.org/10.64898/2026.07.10.737806" target="_blank">Click here to read the full article</a>
+**Sajith Priyankara**, Leif Ellingson. **Accepted for publication** in the *Journal of Chemical Information and Modeling*. First author.
+
+👉 <a href="https://doi.org/10.64898/2026.07.10.737806" target="_blank">Read the bioRxiv preprint</a>
 
