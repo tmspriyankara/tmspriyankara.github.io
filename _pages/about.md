@@ -11,6 +11,10 @@ I am T.M. Sajith Priyankara, a Ph.D. candidate in Statistics and a Graduate Part
 
 My research focuses on functional data analysis, statistics on manifolds, multivariate analysis, and object data analysis. I am particularly interested in real-world applications in bioinformatics and public health.
 
-## News
+## Highlights
 
 My first-author paper, [FUSED: A Functional Representation for Joint Structural and Elemental Analysis of Protein Ligand Binding Sites](/publication/fused-functional-representation), has been accepted for publication in the *Journal of Chemical Information and Modeling*. [Read the bioRxiv preprint](https://doi.org/10.64898/2026.07.10.737806).
+
+<a href="{{ '/files/FUSED_TOC_graphic_highlight_blacklabel.pdf' | relative_url }}" aria-label="View the FUSED graphical abstract as a PDF">
+  <img src="{{ '/images/FUSED_TOC_graphic_highlight_blacklabel.png' | relative_url }}" alt="FUSED represents protein–ligand binding site structure and composition as functions of distance threshold for classification and pocket matching." width="1800" height="970" style="display: block; width: 100%; max-width: 850px; height: auto; margin: 1rem auto;" loading="lazy">
+</a>
